@@ -1,0 +1,11 @@
+{
+  "name": "n8n-lease-processor",
+  "version": "1.0.0",
+  "description": "N8N automation for lease document processing",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "keywords": ["n8n", "automation", "lease"],
+  "author": "Your Name",
+  "license": "MIT"
+}
